@@ -93,9 +93,10 @@ The dataset contains customer information such as:
 
 ## 🚀 How to Run the Project
 1. Clone this repository:
-   git clone https://github.com/MohitKumar987/Market_Campaign_Analysis.git
+   git clone https://github.com/premprakashjha/Market_Campaign_Analysis
+   
    cd Market_Campaign_Analysis
-2. Open the R script:
+3. Open the R script:
 
 source("scripts/analysis.R")
 3. Make sure you have the required libraries installed:
